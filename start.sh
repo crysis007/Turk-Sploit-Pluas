@@ -14,5 +14,4 @@ rm -rf $HOME/shc-3.8.9/
 cd $HOME &&
 cp start.sh.x  $HOME/Turk-Sploit-Pluas/
 cd $HOME &&
-rm -rf start.sh && rm -rf start.sh.x.c
 cd $HOME/Turk-Sploit-Pluas/ && ls && ./start.sh.x
