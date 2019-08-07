@@ -1,7 +1,7 @@
 #!/bin/bash
 apt install shc -y
 cd $HOME
-wget http://www.datsi.fi.upm.es/~frosal/sources/shc-3.8.9.tg
+wget http://www.datsi.fi.upm.es/~frosal/sources/shc-3.8.9.tgz
 tar -xvf shc-3.8.9.tgz
 cd shc-3.8.9/
 make
